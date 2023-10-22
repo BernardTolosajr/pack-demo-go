@@ -1,4 +1,4 @@
-module hello
+module github.com/BernardTolosajr/pack-demo-go
 
 go 1.21.0
 
